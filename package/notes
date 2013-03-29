@@ -1,0 +1,2 @@
+rm -f nice/src/*.{o,so}
+R CMD check nice
