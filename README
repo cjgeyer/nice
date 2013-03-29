@@ -1,2 +1,4 @@
 This is the source tree for the R contributed package nice.
 The version for users is at CRAN (http://cran.r-project.org/package=nice)
+This package is obsolete.  Same functionality is in the function "psnice"
+    in the "tools" package, which comes with R.
