@@ -1,0 +1,7 @@
+fixed bug warned about by clang -Wformat-security
+
+change of maintainer email
+
+Did not bother with registering C routines because package is obsolete
+Startup message says use tools::psnice instead
+Only keeping on CRAN for backwards compatibility
